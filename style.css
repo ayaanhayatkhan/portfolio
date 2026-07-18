@@ -574,3 +574,14 @@ nav a.active {
     opacity: 1;
     transform: translateY(0);
 }
+
+.project-image{
+    width:90%;
+    height:180px;
+    object-fit:contain;
+    display:block;
+    margin:0 auto 20px;
+    background:#111;
+    border-radius:10px;
+    padding:10px;
+}
